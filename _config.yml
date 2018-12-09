@@ -11,7 +11,7 @@ title:            Rohit Datta
 tagline:          'Software Engineer'
 description:      'Software engineer living in San Francisco, currently at Apple'
 url:              https://rohitdatta.github.io
-baseurl:          /
+baseurl:          /public
 
 author:
   name:           'Rohit Datta'
